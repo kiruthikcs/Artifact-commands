@@ -1,0 +1,24 @@
+ 
+ To move the txt file from desktop to Repository 
+ curl -u admin:password -s -X PUT --data-binary @newfile.txt http://34.213.187.8:8081/artifactory/example-repo-local/kk/newfile.txt
+
+  
+ json format of storage 
+ http://34.213.187.86:8081/artifactory/api/storage/example-repo-local
+ 
+ Storage information : JSON format
+ http://34.213.187.86:8081/artifactory/api/storageinfo/
+ 
+ To find the lastModified 
+ 
+ http://34.213.187.86:8081/artifactory/api/storage/example-repo-local/kk?lastModified
+ 
+ 
+To get the GroupID, ArtifactID version or ClassifierID
+ 
+ http://34.213.187.86:8081/artifactory/api/search/gavc? "followed with parameter"
+ 
+ Moving file from 1 repository to other repository 
+ 
+ curl -X POST -uadmin:password "http://34.213.187.86:8081/artifactory/api/move/example-repo-local/newfile.txt?to=/GenericRepo1/kiruthi/f1"
+ 
