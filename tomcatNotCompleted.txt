@@ -1,0 +1,31 @@
+					"sudo su - \n",
+					"yum update -y\n",
+					"yum install java-1.8.0 -y\n",
+					"yum remove java-1.7.0-openjdk -y
+					
+					
+					
+					wget https://archive.apache.org/dist/tomcat/tomcat-7/v7.0.56/bin/apache-tomcat-7.0.56.tar.gz
+					
+					sudo tar xvzf apache-tomcat-7.0.56.tar.gz -C /opt
+					
+					 sudo chmod +r /opt/apache-tomcat-7.0.56/conf/*
+					 
+					 
+					Set CATALINA_HOME to the directory for the Tomcat files
+
+sudo sh -c 'echo export CATALINA_HOME=/opt/apache-tomcat-7.0.56 > /etc/profile.d/tomcat.sh'
+source /etc/profile.d/tomcat.sh
+
+sudo $CATALINA_HOME/bin/startup.sh
+
+
+
+<role rolename="manager-gui"/>
+<user username="tomcat" password="s3cret" roles="manager-gui"/>
+<role rolename="manager-script"/>
+<user username="tomcat" password="s3cret" roles="manager-script"/>
+<role rolename="manager-jmx"/>
+<user username="tomcat" password="s3cret" roles="manager-jmx"/>
+
+
