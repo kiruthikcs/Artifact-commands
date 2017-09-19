@@ -1,0 +1,113 @@
+{
+    "AWSTemplateFormatVersion": "2010-09-09",
+    "Description": "Launch an EC2 instance with s3 bucket",
+    "Parameters": {
+        "KeyName": {
+            "Description": "Key Pair Name",
+            "Type": "AWS::EC2::KeyPair::KeyName",
+            "Default": "New_Key_Pair_pub_aws"
+        },
+        "InstanceType": {
+            "Description": "Select one of these",
+            "Type": "String",
+            "Default": "t2.micro",
+            "AllowedValues": ["t2.micro", "t2.small", "t2.medium"]
+        }
+		},
+		
+     "Resources": { 
+	 "S3Bucket" : {
+      "Type" : "AWS::S3::Bucket"
+    },
+	
+
+    "BucketPolicy" : {
+      "Type" : "AWS::S3::BucketPolicy",
+      "Properties" : {
+        "PolicyDocument": {
+          "Id"           : "Give access to user",
+          "Statement"    : [{
+            "Sid"        : "AllAccess",
+            "Action"     : ["s3:*"],
+            "Effect"     : "Allow",
+            "Resource"   : { "Fn::Join" : ["", ["arn:aws:s3:::", {"Ref" : "S3Bucket"} ]]},
+            "Principal"  : { "AWS": {"Fn::GetAtt" : ["S3User", "Arn"]} }
+          }]
+        },
+        "Bucket" : {"Ref" : "S3Bucket"}
+      }
+    },
+
+    "S3User" : {
+      "Type" : "AWS::IAM::User",
+      "Properties" : {
+        
+        "Policies" : [{
+          "PolicyName" : "S3Access",
+          "PolicyDocument" : {
+            "Statement": [{
+              "Effect"   : "Allow",
+              "Action"   : "s3:ListAllMyBuckets",
+              "Resource" : "*"
+            },{
+              "Effect"   : "Allow",
+              "Action"   : "s3:*",
+              "Resource" : { "Fn::Join" : ["", ["arn:aws:s3:::", {"Ref" : "S3Bucket"} , "/*"]]}
+            }]
+          }
+        }]
+      }
+    },
+        "Server": {
+            "Type": "AWS::EC2::Instance",
+            "Properties": {
+                "ImageId": "ami-aa5ebdd2",
+                "InstanceType": {"Ref": "InstanceType"},
+                "KeyName": {"Ref": "KeyName"},
+				"UserData": {"Fn::Base64": {"Fn::Join": ["", [
+                    "#!/bin/bash -ex\n",
+					"sudo su - \n",
+					"yum update -y\n",
+					"yum install java-1.8.0 -y\n",
+					"yum remove jva-1.7.0-openjdk -y\n",
+					"wget -O /etc/yum.repos.d/jenkins.repo http://pkg.jenkins-ci.org/redhat-stable/jenkins.repo \n",
+					"rpm --import http://pkg.jenkins-ci.org/redhat-stable/jenkins-ci.org.key \n",
+					"yum install jenkins -y\n",
+					"service jenkins start\n",
+					"chkconfig jenkins on\n"
+                ]]}
+                }
+            }
+        
+    },
+	"InstanceSecurityGroup" : {
+	
+      "Type" : "AWS::EC2::SecurityGroup",
+      "Properties" : {
+	  "IpPermissionsEgress": [],
+            "Description": "My security group",
+            "GroupName": "my-sg",
+            "OwnerId": "123456789012",
+            "GroupId": "0.0.0.0/0",
+        "GroupDescription" : "Enable SSH access via port 22 80 and 443",
+        "SecurityGroupIngress" :
+		[ {"IpProtocol" : "tcp", "FromPort" : "22", "ToPort" : "22","CidrIp" : "0.0.0.0/0"},
+		  {"IpProtocol" : "tcp", "FromPort" : "80", "ToPort" : "80", "CidrIp" : "0.0.0.0/0"},
+          {"IpProtocol" : "tcp", "FromPort" : "443", "ToPort" : "443", "CidrIp" : "0.0.0.0/0"}
+        ]
+      }
+	  }
+    },
+    "Outputs": {
+	 "IAMUser" : {
+      "Value" : { "Ref" : "S3User" },
+      "Description" : "IAM User for customer"
+    },
+
+    "BucketName" : {
+      "Value" : { "Ref" : "S3Bucket" },
+      "Description" : "Name of newly created customer S3 bucket"
+		}
+    }
+}
+
