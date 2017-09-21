@@ -1,0 +1,49 @@
+1  mvn -version
+    2  cd /usr/share/apache-maven
+    3  ls
+    4  cd ~
+    5  export M2_HOME=/usr/local/apache-maven/apache-maven-3.3.9
+    6  export M2=$M2_HOME/bin
+    7  export MAVEN_OPTS=-Xms256m -Xmx512m
+    8  export PATH=$M2:$PATH
+    9  echo $PATH
+   10  echo $M2
+   11  CD /
+   12  cd /
+   13  echo $PATH
+   14  cd /opt
+   15  ls
+   16  git -version
+   17  git --version
+   18  sudo install git
+   19  sudo yum install git
+   20  git --version
+   21  ls
+   22  mkdir kiruthi
+   23  cd kiruthi
+   24  sudo mkdir kiruthi
+   25  sudo cd kiruthi
+   26  cd kiruthi
+   27  ls
+   28  git -version
+   29  git --version
+   30  git clone https://github.com/spring-petclinic/spring-framework-petclinic.git
+   31  sudo git clone https://github.com/spring-petclinic/spring-framework-petclinic.git
+   32  ls
+   33  cd spring-framework-petclinic/
+   34  ls
+   35  mvn -v
+   36  mvn --version
+   37  mvn -version
+   38  mvn
+   39  sudo mvn
+   40  ls
+   41  sudo mvn package
+   42  ls
+   43  cd ..
+   44  ls
+   45  cd spring-framework-petclinic/
+   46  ls
+   47  cd target
+   48  ls
+   49  history
