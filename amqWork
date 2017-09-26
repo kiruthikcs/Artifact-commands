@@ -1,0 +1,966 @@
+
+Download https://repo1.maven.org/maven2/org/apache/httpcomponents/httpcomponents-client/4.1.1/httpcomponents-client-4.1.1.pom
+Download https://repo1.maven.org/maven2/org/apache/httpcomponents/project/4.1.1/project-4.1.1.pom
+Download https://repo1.maven.org/maven2/com/android/tools/layoutlib/layoutlib-api/23.0.2/layoutlib-api-23.0.2.pom
+Download https://repo1.maven.org/maven2/org/apache/httpcomponents/httpmime/4.1/httpmime-4.1.pom
+Download https://repo1.maven.org/maven2/org/apache/httpcomponents/httpcomponents-client/4.1/httpcomponents-client-4.1.pom
+Download https://repo1.maven.org/maven2/com/android/tools/dvlib/23.0.2/dvlib-23.0.2.pom
+Download https://repo1.maven.org/maven2/org/apache/commons/commons-compress/1.8.1/commons-compress-1.8.1.pom
+Download https://repo1.maven.org/maven2/org/apache/commons/commons-parent/33/commons-parent-33.pom
+Download https://repo1.maven.org/maven2/org/apache/apache/13/apache-13.pom
+Download https://repo1.maven.org/maven2/com/google/guava/guava/15.0/guava-15.0.pom
+Download https://repo1.maven.org/maven2/com/google/guava/guava-parent/15.0/guava-parent-15.0.pom
+Download https://repo1.maven.org/maven2/org/bouncycastle/bcprov-jdk15on/1.48/bcprov-jdk15on-1.48.pom
+Download https://repo1.maven.org/maven2/org/ow2/asm/asm/4.0/asm-4.0.pom
+Download https://repo1.maven.org/maven2/com/android/tools/external/lombok/lombok-ast/0.2.2/lombok-ast-0.2.2.pom
+
+Download https://repo1.maven.org/maven2/org/apache/httpcomponents/httpcore/4.1/httpcore-4.1.pom
+Download https://repo1.maven.org/maven2/org/apache/httpcomponents/httpcomponents-core/4.1/httpcomponents-core-4.1.pom
+Download https://repo1.maven.org/maven2/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.pom
+Download https://repo1.maven.org/maven2/org/apache/commons/commons-parent/5/commons-parent-5.pom
+Download https://repo1.maven.org/maven2/org/apache/apache/4/apache-4.pom
+Download https://repo1.maven.org/maven2/commons-codec/commons-codec/1.4/commons-codec-1.4.pom
+Download https://repo1.maven.org/maven2/org/apache/commons/commons-parent/11/commons-parent-11.pom
+Download https://repo1.maven.org/maven2/javax/mail/mail/1.4.7/mail-1.4.7.jar
+Download https://repo1.maven.org/maven2/com/android/tools/build/gradle/0.12.2/gradle-0.12.2.jar
+Download https://repo1.maven.org/maven2/org/tmatesoft/svnkit/svnkit/1.8.5/svnkit-1.8.5.jar
+Download https://repo1.maven.org/maven2/javax/activation/activation/1.1/activation-1.1.jar
+Download https://repo1.maven.org/maven2/net/sf/proguard/proguard-gradle/4.11/proguard-gradle-4.11.jar
+
+Download https://repo1.maven.org/maven2/com/android/tools/build/builder/0.12.2/builder-0.12.2.jar
+Download https://repo1.maven.org/maven2/com/jcraft/jsch.agentproxy.svnkit-trilead-ssh2/0.0.7/jsch.agentproxy.svnkit-trilead-ssh2-0.0.7.jar
+Download https://repo1.maven.org/maven2/net/java/dev/jna/jna/3.5.2/jna-3.5.2.jar
+Download https://repo1.maven.org/maven2/org/tmatesoft/sqljet/sqljet/1.1.10/sqljet-1.1.10.jar
+Download https://repo1.maven.org/maven2/net/java/dev/jna/platform/3.5.2/platform-3.5.2.jar
+Download https://repo1.maven.org/maven2/com/jcraft/jsch.agentproxy.connector-factory/0.0.7/jsch.agentproxy.connector-factory-0.0.7.jar
+Download https://repo1.maven.org/maven2/de/regnis/q/sequence/sequence-library/1.0.2/sequence-library-1.0.2.jar
+Download https://repo1.maven.org/maven2/com/trilead/trilead-ssh2/1.0.0-build217/trilead-ssh2-1.0.0-build217.jar
+Download https://repo1.maven.org/maven2/net/sf/proguard/proguard-base/4.11/proguard-base-4.11.jar
+Download https://repo1.maven.org/maven2/org/eclipse/jdt/core/compiler/ecj/4.2.2/ecj-4.2.2.jar
+Download https://repo1.maven.org/maven2/com/android/tools/lint/lint-checks/23.0.2/lint-checks-23.0.2.jar
+Download https://repo1.maven.org/maven2/com/android/tools/sdk-common/23.0.2/sdk-common-23.0.2.jar
+Download https://repo1.maven.org/maven2/com/android/tools/build/builder-model/0.12.2/builder-model-0.12.2.jar
+
+Download https://repo1.maven.org/maven2/com/android/tools/build/manifest-merger/23.0.2/manifest-merger-23.0.2.jar
+Download https://repo1.maven.org/maven2/com/android/tools/sdklib/23.0.2/sdklib-23.0.2.jar
+Download https://repo1.maven.org/maven2/com/android/tools/common/23.0.2/common-23.0.2.jar
+Download https://repo1.maven.org/maven2/com/android/tools/build/builder-test-api/0.12.2/builder-test-api-0.12.2.jar
+Download https://repo1.maven.org/maven2/com/squareup/javawriter/2.5.0/javawriter-2.5.0.jar
+Download https://repo1.maven.org/maven2/org/bouncycastle/bcpkix-jdk15on/1.48/bcpkix-jdk15on-1.48.jar
+Download https://repo1.maven.org/maven2/com/jcraft/jsch.agentproxy.core/0.0.7/jsch.agentproxy.core-0.0.7.jar
+Download https://repo1.maven.org/maven2/org/antlr/antlr-runtime/3.4/antlr-runtime-3.4.jar
+Download https://repo1.maven.org/maven2/com/jcraft/jsch.agentproxy.usocket-jna/0.0.7/jsch.agentproxy.usocket-jna-0.0.7.jar
+Download https://repo1.maven.org/maven2/com/jcraft/jsch.agentproxy.usocket-nc/0.0.7/jsch.agentproxy.usocket-nc-0.0.7.jar
+Download https://repo1.maven.org/maven2/com/jcraft/jsch.agentproxy.sshagent/0.0.7/jsch.agentproxy.sshagent-0.0.7.jar
+Download https://repo1.maven.org/maven2/com/jcraft/jsch.agentproxy.pageant/0.0.7/jsch.agentproxy.pageant-0.0.7.jar
+Download https://repo1.maven.org/maven2/com/android/tools/lint/lint-api/23.0.2/lint-api-23.0.2.jar
+Download https://repo1.maven.org/maven2/org/ow2/asm/asm-analysis/4.0/asm-analysis-4.0.jar
+Download https://repo1.maven.org/maven2/net/sf/kxml/kxml2/2.3.0/kxml2-2.3.0.jar
+Download https://repo1.maven.org/maven2/org/apache/httpcomponents/httpclient/4.1.1/httpclient-4.1.1.jar
+Download https://repo1.maven.org/maven2/com/android/tools/layoutlib/layoutlib-api/23.0.2/layoutlib-api-23.0.2.jar
+Download https://repo1.maven.org/maven2/org/apache/httpcomponents/httpmime/4.1/httpmime-4.1.jar
+Download https://repo1.maven.org/maven2/com/android/tools/dvlib/23.0.2/dvlib-23.0.2.jar
+Download https://repo1.maven.org/maven2/org/apache/commons/commons-compress/1.8.1/commons-compress-1.8.1.jar
+Download https://repo1.maven.org/maven2/com/google/guava/guava/15.0/guava-15.0.jar
+Download https://repo1.maven.org/maven2/org/bouncycastle/bcprov-jdk15on/1.48/bcprov-jdk15on-1.48.jar
+Download https://repo1.maven.org/maven2/org/ow2/asm/asm/4.0/asm-4.0.jar
+Download https://repo1.maven.org/maven2/com/android/tools/external/lombok/lombok-ast/0.2.2/lombok-ast-0.2.2.jar
+Download https://repo1.maven.org/maven2/org/ow2/asm/asm-tree/4.0/asm-tree-4.0.jar
+
+Download https://repo1.maven.org/maven2/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.jar
+Download https://repo1.maven.org/maven2/commons-codec/commons-codec/1.4/commons-codec-1.4.jar
+:compileJava FAILED
+
+FAILURE: Build failed with an exception.
+
+* What went wrong:
+Execution failed for task ':compileJava'.
+> Could not find tools.jar. Please check that /usr/lib/jvm/java-1.8.0-openjdk-1.8.0.141-1.b16.32.amzn1.x86_64/jre contains a valid JDK installation.
+
+* Try:
+Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output.
+
+BUILD FAILED
+
+Total time: 15.645 secs
+[root@ip-172-31-44-76 GradleBuildPlugin]# gradle clean build
+:clean
+:compileJava FAILED
+
+FAILURE: Build failed with an exception.
+
+* What went wrong:
+Execution failed for task ':compileJava'.
+> Could not find tools.jar. Please check that /usr/lib/jvm/java-1.8.0-openjdk-1.8.0.141-1.b16.32.amzn1.x86_64/jre contains a valid JDK installation.
+
+* Try:
+Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output.
+
+BUILD FAILED
+
+Total time: 1.399 secs
+
+Loaded plugins: priorities, update-motd, upgrade-helper
+amzn-main                                                                                                                                          | 2.1 kB  00:00:00
+
+amzn-updates                                                                                                                                       | 2.3 kB  00:00:00
+
+Resolving Dependencies
+--> Running transaction check
+---> Package java-1.8.0-openjdk-devel.x86_64 1:1.8.0.141-1.b16.32.amzn1 will be installed
+--> Finished Dependency Resolution
+
+Dependencies Resolved
+
+==========================================================================================================================================================================
+
+ Package                                        Arch                         Version                                             Repository                          Size ==========================================================================================================================================================================
+
+Installing:
+ java-1.8.0-openjdk-devel                       x86_64                       1:1.8.0.141-1.b16.32.amzn1                          amzn-updates                        12 M
+
+Transaction Summary
+==========================================================================================================================================================================
+
+
+
+Total download size: 12 M
+Installed size: 40 M
+Is this ok [y/d/N]: y
+Downloading packages:
+java-1.8.0-openjdk-devel-1.8.0.141-1.b16.32.amzn1.x86_64.rpm           3% [==                                                           ]  0.0 B/s | 483 kB  --:--:-- ETA java-1.8.0-openjdk-devel-1.8.0.141-1.b16.32.amzn1.x86_64.rpm           11% [======-                                                     ] 1.2 MB/s | 1.4 MB  00:00:08 ETA java-1.8.0-openjdk-devel-1.8.0.141-1.b16.32.amzn1.x86_64.rpm           22% [=============                                               ] 1.4 MB/s | 2.7 MB  00:00:06 ETA java-1.8.0-openjdk-devel-1.8.0.141-1.b16.32.amzn1.x86_64.rpm           36% [=====================-                                      ] 1.7 MB/s | 4.4 MB  00:00:04 ETA java-1.8.0-openjdk-devel-1.8.0.141-1.b16.32.amzn1.x86_64.rpm           46% [============================                                ] 1.8 MB/s | 5.7 MB  00:00:03 ETA java-1.8.0-openjdk-devel-1.8.0.141-1.b16.32.amzn1.x86_64.rpm           53% [================================                            ] 1.9 MB/s | 6.5 MB  00:00:03 ETA java-1.8.0-openjdk-devel-1.8.0.141-1.b16.32.amzn1.x86_64.rpm           64% [======================================-                     ] 2.0 MB/s | 7.8 MB  00:00:02 ETA java-1.8.0-openjdk-devel-1.8.0.141-1.b16.32.amzn1.x86_64.rpm           78% [===============================================             ] 2.2 MB/s | 9.5 MB  00:00:01 ETA java-1.8.0-openjdk-devel-1.8.0.141-1.b16.32.amzn1.x86_64.rpm           94% [========================================================-   ] 2.5 MB/s |  11 MB  00:00:00 ETA
+
+
+Running transaction check
+Running transaction test
+Transaction test succeeded
+Running transaction
+  Installing : 1:java-1.8.0-openjdk-devel-1.8.0.141-1.b16.32.amzn1.x86_64                                                                                             1/1
+
+  Verifying  : 1:java-1.8.0-openjdk-devel-1.8.0.141-1.b16.32.amzn1.x86_64                                                                                             1/1
+
+
+Installed:
+  java-1.8.0-openjdk-devel.x86_64 1:1.8.0.141-1.b16.32.amzn1
+
+
+Complete!
+[root@ip-172-31-44-76 GradleBuildPlugin]# gradle assemble
+Starting a Gradle Daemon, 1 incompatible Daemon could not be reused, use --status for details
+:compileJava
+/home/amit/GradleBuildPlugin/src/main/java/com/example/pack/SamplePlugin.java:57: error: cannot find symbol
+        project.getTasks().create("SamplePlugin",SampleTask.class);
+                                                 ^
+  symbol:   class SampleTask
+  location: class SamplePlugin
+1 error
+:compileJava FAILED
+
+
+
+* What went wrong:
+Execution failed for task ':compileJava'.
+> Compilation failed; see the compiler error output for details.
+
+* Try:
+Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output.
+
+BUILD FAILED
+
+Total time: 8.839 secs
+[root@ip-172-31-44-76 GradleBuildPlugin]# gradle clean build
+:clean
+:compileJava
+/home/amit/GradleBuildPlugin/src/main/java/com/example/pack/SamplePlugin.java:57: error: cannot find symbol
+        project.getTasks().create("SamplePlugin",SampleTask.class);
+                                                 ^
+  symbol:   class SampleTask
+  location: class SamplePlugin
+1 error
+:compileJava FAILED
+
+FAILURE: Build failed with an exception.
+
+* What went wrong:
+
+> Compilation failed; see the compiler error output for details.
+
+* Try:
+Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output.
+
+BUILD FAILED
+
+Total time: 1.953 secs
+[root@ip-172-31-44-76 GradleBuildPlugin]# cd ..
+[root@ip-172-31-44-76 amit]# ls
+GradleBuildPlugin
+[root@ip-172-31-44-76 amit]# rm -rf GradleBuildPlugin/
+[root@ip-172-31-44-76 amit]# ls
+[root@ip-172-31-44-76 amit]# git clone https://github.com/dsvoronin/test-apk-multidex-3.0.git
+Cloning into 'test-apk-multidex-3.0'...
+remote: Counting objects: 66, done.
+remote: Total 66 (delta 0), reused 0 (delta 0), pack-reused 66
+Unpacking objects: 100% (66/66), done.
+[root@ip-172-31-44-76 amit]# ls
+test-apk-multidex-3.0
+[root@ip-172-31-44-76 amit]# cd test-apk-multidex-3.0/
+[root@ip-172-31-44-76 test-apk-multidex-3.0]# gradle tasks
+Starting a Gradle Daemon, 1 incompatible and 1 stopped Daemons could not be reused, use --status for details
+Download https://maven.google.com/com/android/tools/build/gradle/3.0.0-alpha8/gradle-3.0.0-alpha8.pom
+Download https://jcenter.bintray.com/org/jetbrains/kotlin/kotlin-gradle-plugin/1.1.3-2/kotlin-gradle-plugin-1.1.3-2.pom
+Download https://maven.google.com/com/android/tools/build/gradle-core/3.0.0-alpha8/gradle-core-3.0.0-alpha8.pom
+Download https://jcenter.bintray.com/org/jetbrains/kotlin/kotlin-gradle-plugin-api/1.1.3-2/kotlin-gradle-plugin-api-1.1.3-2.pom
+Download https://jcenter.bintray.com/org/jetbrains/kotlin/kotlin-stdlib/1.1.3-2/kotlin-stdlib-1.1.3-2.pom
+Download https://jcenter.bintray.com/org/jetbrains/kotlin/kotlin-android-extensions/1.1.3-2/kotlin-android-extensions-1.1.3-2.pom
+Download https://jcenter.bintray.com/org/jetbrains/kotlin/kotlin-project/1.1.3-2/kotlin-project-1.1.3-2.pom
+Download https://jcenter.bintray.com/org/jetbrains/kotlin/kotlin-compiler-embeddable/1.1.3-2/kotlin-compiler-embeddable-1.1.3-2.pom
+Download https://jcenter.bintray.com/org/jetbrains/kotlin/kotlin-compiler-runner/1.1.3-2/kotlin-compiler-runner-1.1.3-2.pom
+
+Download https://jcenter.bintray.com/commons-io/commons-io/2.4/commons-io-2.4.pom
+Download https://jcenter.bintray.com/org/apache/commons/commons-parent/25/commons-parent-25.pom
+Download https://jcenter.bintray.com/org/apache/apache/9/apache-9.pom
+Download https://jcenter.bintray.com/commons-lang/commons-lang/2.4/commons-lang-2.4.pom
+Download https://jcenter.bintray.com/org/apache/commons/commons-parent/9/commons-parent-9.pom
+Download https://maven.google.com/com/android/tools/build/builder/3.0.0-alpha8/builder-3.0.0-alpha8.pom
+Download https://maven.google.com/com/android/tools/lint/lint/26.0.0-alpha8/lint-26.0.0-alpha8.pom
+Download https://maven.google.com/com/android/tools/external/org-jetbrains/uast/26.0.0-alpha8/uast-26.0.0-alpha8.pom
+Download https://maven.google.com/com/android/tools/build/gradle-api/3.0.0-alpha8/gradle-api-3.0.0-alpha8.pom
+Download https://maven.google.com/com/android/databinding/compilerCommon/3.0.0-alpha8/compilerCommon-3.0.0-alpha8.pom
+Download https://maven.google.com/com/android/tools/build/transform-api/2.0.0-deprecated-use-gradle-api/transform-api-2.0.0-deprecated-use-gradle-api.pom
+Download https://jcenter.bintray.com/org/ow2/asm/asm/5.1/asm-5.1.pom
+Download https://jcenter.bintray.com/org/ow2/asm/asm-parent/5.1/asm-parent-5.1.pom
+Download https://jcenter.bintray.com/org/ow2/asm/asm-analysis/5.1/asm-analysis-5.1.pom
+Download https://jcenter.bintray.com/org/ow2/asm/asm-commons/5.1/asm-commons-5.1.pom
+Download https://jcenter.bintray.com/org/ow2/asm/asm-util/5.1/asm-util-5.1.pom
+Download https://jcenter.bintray.com/org/jacoco/org.jacoco.core/0.7.4.201502262128/org.jacoco.core-0.7.4.201502262128.pom
+Download https://jcenter.bintray.com/org/jacoco/org.jacoco.build/0.7.4.201502262128/org.jacoco.build-0.7.4.201502262128.pom
+Download https://jcenter.bintray.com/org/jacoco/org.jacoco.report/0.7.4.201502262128/org.jacoco.report-0.7.4.201502262128.pom
+Download https://jcenter.bintray.com/net/sf/jopt-simple/jopt-simple/4.9/jopt-simple-4.9.pom
+Download https://jcenter.bintray.com/net/sf/proguard/proguard-gradle/5.3.3/proguard-gradle-5.3.3.pom
+Download https://jcenter.bintray.com/net/sf/proguard/proguard-parent/5.3.3/proguard-parent-5.3.3.pom
+Download https://jcenter.bintray.com/com/google/protobuf/protobuf-java/3.0.0/protobuf-java-3.0.0.pom
+
+Download https://jcenter.bintray.com/com/google/google/1/google-1.pom
+Download https://jcenter.bintray.com/org/jetbrains/annotations/13.0/annotations-13.0.pom
+Download https://maven.google.com/com/android/tools/build/builder-model/3.0.0-alpha8/builder-model-3.0.0-alpha8.pom
+Download https://maven.google.com/com/android/tools/build/builder-test-api/3.0.0-alpha8/builder-test-api-3.0.0-alpha8.pom
+Download https://maven.google.com/com/android/tools/sdklib/26.0.0-alpha8/sdklib-26.0.0-alpha8.pom
+Download https://maven.google.com/com/android/tools/sdk-common/26.0.0-alpha8/sdk-common-26.0.0-alpha8.pom
+Download https://maven.google.com/com/android/tools/common/26.0.0-alpha8/common-26.0.0-alpha8.pom
+Download https://maven.google.com/com/android/tools/build/manifest-merger/26.0.0-alpha8/manifest-merger-26.0.0-alpha8.pom
+Download https://maven.google.com/com/android/tools/ddms/ddmlib/26.0.0-alpha8/ddmlib-26.0.0-alpha8.pom
+Download https://maven.google.com/com/android/tools/analytics-library/protos/26.0.0-alpha8/protos-26.0.0-alpha8.pom
+Download https://maven.google.com/com/android/tools/analytics-library/shared/26.0.0-alpha8/shared-26.0.0-alpha8.pom
+Download https://maven.google.com/com/android/tools/analytics-library/tracker/26.0.0-alpha8/tracker-26.0.0-alpha8.pom
+Download https://maven.google.com/com/android/tools/build/apksig/3.0.0-alpha8/apksig-3.0.0-alpha8.pom
+Download https://jcenter.bintray.com/org/bouncycastle/bcpkix-jdk15on/1.56/bcpkix-jdk15on-1.56.pom
+
+Download https://jcenter.bintray.com/org/ow2/asm/asm-tree/5.1/asm-tree-5.1.pom
+Download https://jcenter.bintray.com/it/unimi/dsi/fastutil/7.2.0/fastutil-7.2.0.pom
+Download https://maven.google.com/com/android/tools/lint/lint-checks/26.0.0-alpha8/lint-checks-26.0.0-alpha8.pom
+Download https://jcenter.bintray.com/org/eclipse/jdt/core/compiler/ecj/4.6.1/ecj-4.6.1.pom
+Download https://jcenter.bintray.com/com/google/guava/guava/22.0/guava-22.0.pom
+Download https://jcenter.bintray.com/com/google/guava/guava-parent/22.0/guava-parent-22.0.pom
+Download https://maven.google.com/com/android/databinding/baseLibrary/3.0.0-alpha8/baseLibrary-3.0.0-alpha8.pom
+Download https://jcenter.bintray.com/org/antlr/antlr4/4.5.3/antlr4-4.5.3.pom
+Download https://jcenter.bintray.com/org/antlr/antlr4-master/4.5.3/antlr4-master-4.5.3.pom
+Download https://jcenter.bintray.com/org/sonatype/oss/oss-parent/9/oss-parent-9.pom
+Download https://jcenter.bintray.com/com/googlecode/juniversalchardet/juniversalchardet/1.0.3/juniversalchardet-1.0.3.pom
+Download https://jcenter.bintray.com/com/android/tools/annotations/24.5.0/annotations-24.5.0.pom
+
+Download https://maven.google.com/com/android/tools/layoutlib/layoutlib-api/26.0.0-alpha8/layoutlib-api-26.0.0-alpha8.pom
+Download https://maven.google.com/com/android/tools/dvlib/26.0.0-alpha8/dvlib-26.0.0-alpha8.pom
+Download https://maven.google.com/com/android/tools/repository/26.0.0-alpha8/repository-26.0.0-alpha8.pom
+Download https://jcenter.bintray.com/com/google/code/gson/gson/2.3/gson-2.3.pom
+Download https://jcenter.bintray.com/org/apache/commons/commons-compress/1.12/commons-compress-1.12.pom
+Download https://jcenter.bintray.com/org/apache/commons/commons-parent/39/commons-parent-39.pom
+Download https://jcenter.bintray.com/org/apache/apache/16/apache-16.pom
+Download https://jcenter.bintray.com/org/apache/httpcomponents/httpclient/4.2.6/httpclient-4.2.6.pom
+Download https://jcenter.bintray.com/org/apache/httpcomponents/httpcomponents-client/4.2.6/httpcomponents-client-4.2.6.pom
+Download https://jcenter.bintray.com/org/apache/httpcomponents/project/7/project-7.pom
+Download https://maven.google.com/com/android/tools/lint/lint-api/26.0.0-alpha8/lint-api-26.0.0-alpha8.pom
+Download https://jcenter.bintray.com/com/google/code/findbugs/jsr305/1.3.9/jsr305-1.3.9.pom
+Download https://jcenter.bintray.com/com/google/errorprone/error_prone_annotations/2.0.18/error_prone_annotations-2.0.18.pom
+
+Download https://jcenter.bintray.com/com/google/j2objc/j2objc-annotations/1.1/j2objc-annotations-1.1.pom
+Download https://jcenter.bintray.com/org/codehaus/mojo/animal-sniffer-annotations/1.14/animal-sniffer-annotations-1.14.pom
+Download https://jcenter.bintray.com/org/codehaus/mojo/animal-sniffer-parent/1.14/animal-sniffer-parent-1.14.pom
+Download https://jcenter.bintray.com/org/codehaus/mojo/mojo-parent/34/mojo-parent-34.pom
+Download https://jcenter.bintray.com/org/codehaus/codehaus-parent/4/codehaus-parent-4.pom
+Download https://jcenter.bintray.com/com/intellij/annotations/12.0/annotations-12.0.pom
+Download https://jcenter.bintray.com/com/google/jimfs/jimfs/1.1/jimfs-1.1.pom
+Download https://jcenter.bintray.com/com/google/jimfs/jimfs-parent/1.1/jimfs-parent-1.1.pom
+Download https://jcenter.bintray.com/org/apache/httpcomponents/httpcore/4.2.5/httpcore-4.2.5.pom
+Download https://jcenter.bintray.com/org/apache/httpcomponents/httpcomponents-core/4.2.5/httpcomponents-core-4.2.5.pom
+Download https://jcenter.bintray.com/commons-codec/commons-codec/1.6/commons-codec-1.6.pom
+Download https://jcenter.bintray.com/org/apache/commons/commons-parent/22/commons-parent-22.pom
+Download https://maven.google.com/com/android/tools/external/com-intellij/intellij-core/26.0.0-alpha8/intellij-core-26.0.0-alpha8.pom
+Download https://jcenter.bintray.com/com/android/tools/external/lombok/lombok-ast/0.2.3/lombok-ast-0.2.3.pom
+Download https://jcenter.bintray.com/org/jetbrains/trove4j/trove4j/20160824/trove4j-20160824.pom
+Download https://maven.google.com/com/android/tools/annotations/26.0.0-alpha8/annotations-26.0.0-alpha8.pom
+Download https://maven.google.com/com/android/tools/build/gradle/3.0.0-alpha8/gradle-3.0.0-alpha8.jar
+Download https://jcenter.bintray.com/org/jetbrains/kotlin/kotlin-gradle-plugin/1.1.3-2/kotlin-gradle-plugin-1.1.3-2.jar
+Download https://maven.google.com/com/android/tools/build/gradle-core/3.0.0-alpha8/gradle-core-3.0.0-alpha8.jar
+Download https://jcenter.bintray.com/org/jetbrains/kotlin/kotlin-gradle-plugin-api/1.1.3-2/kotlin-gradle-plugin-api-1.1.3-2.jar
+Download https://jcenter.bintray.com/org/jetbrains/kotlin/kotlin-stdlib/1.1.3-2/kotlin-stdlib-1.1.3-2.jar
+Download https://jcenter.bintray.com/org/jetbrains/kotlin/kotlin-android-extensions/1.1.3-2/kotlin-android-extensions-1.1.3-2.jar
+Download https://jcenter.bintray.com/org/jetbrains/kotlin/kotlin-compiler-embeddable/1.1.3-2/kotlin-compiler-embeddable-1.1.3-2.jar
+Download https://jcenter.bintray.com/org/jetbrains/kotlin/kotlin-compiler-runner/1.1.3-2/kotlin-compiler-runner-1.1.3-2.jar
+Download https://jcenter.bintray.com/org/jetbrains/kotlin/kotlin-annotation-processing/1.1.3-2/kotlin-annotation-processing-1.1.3-2.jar
+
+Download https://jcenter.bintray.com/commons-lang/commons-lang/2.4/commons-lang-2.4.jar
+Download https://maven.google.com/com/android/tools/build/builder/3.0.0-alpha8/builder-3.0.0-alpha8.jar
+Download https://maven.google.com/com/android/tools/lint/lint/26.0.0-alpha8/lint-26.0.0-alpha8.jar
+Download https://maven.google.com/com/android/tools/external/org-jetbrains/uast/26.0.0-alpha8/uast-26.0.0-alpha8.jar
+Download https://maven.google.com/com/android/tools/build/gradle-api/3.0.0-alpha8/gradle-api-3.0.0-alpha8.jar
+Download https://maven.google.com/com/android/databinding/compilerCommon/3.0.0-alpha8/compilerCommon-3.0.0-alpha8.jar
+Download https://maven.google.com/com/android/tools/build/transform-api/2.0.0-deprecated-use-gradle-api/transform-api-2.0.0-deprecated-use-gradle-api.jar
+Download https://jcenter.bintray.com/org/ow2/asm/asm/5.1/asm-5.1.jar
+Download https://jcenter.bintray.com/org/ow2/asm/asm-analysis/5.1/asm-analysis-5.1.jar
+Download https://jcenter.bintray.com/org/ow2/asm/asm-commons/5.1/asm-commons-5.1.jar
+Download https://jcenter.bintray.com/org/ow2/asm/asm-util/5.1/asm-util-5.1.jar
+Download https://jcenter.bintray.com/org/jacoco/org.jacoco.core/0.7.4.201502262128/org.jacoco.core-0.7.4.201502262128.jar
+Download https://jcenter.bintray.com/org/jacoco/org.jacoco.report/0.7.4.201502262128/org.jacoco.report-0.7.4.201502262128.jar
+Download https://jcenter.bintray.com/net/sf/jopt-simple/jopt-simple/4.9/jopt-simple-4.9.jar
+Download https://jcenter.bintray.com/net/sf/proguard/proguard-gradle/5.3.3/proguard-gradle-5.3.3.jar
+Download https://jcenter.bintray.com/com/google/protobuf/protobuf-java/3.0.0/protobuf-java-3.0.0.jar
+Download https://jcenter.bintray.com/org/jetbrains/annotations/13.0/annotations-13.0.jar
+Download https://maven.google.com/com/android/tools/build/builder-model/3.0.0-alpha8/builder-model-3.0.0-alpha8.jar
+Download https://maven.google.com/com/android/tools/build/builder-test-api/3.0.0-alpha8/builder-test-api-3.0.0-alpha8.jar
+Download https://maven.google.com/com/android/tools/sdklib/26.0.0-alpha8/sdklib-26.0.0-alpha8.jar
+Download https://maven.google.com/com/android/tools/sdk-common/26.0.0-alpha8/sdk-common-26.0.0-alpha8.jar
+Download https://maven.google.com/com/android/tools/common/26.0.0-alpha8/common-26.0.0-alpha8.jar
+Download https://maven.google.com/com/android/tools/build/manifest-merger/26.0.0-alpha8/manifest-merger-26.0.0-alpha8.jar
+Download https://maven.google.com/com/android/tools/ddms/ddmlib/26.0.0-alpha8/ddmlib-26.0.0-alpha8.jar
+Download https://maven.google.com/com/android/tools/analytics-library/protos/26.0.0-alpha8/protos-26.0.0-alpha8.jar
+Download https://maven.google.com/com/android/tools/analytics-library/shared/26.0.0-alpha8/shared-26.0.0-alpha8.jar
+Download https://maven.google.com/com/android/tools/analytics-library/tracker/26.0.0-alpha8/tracker-26.0.0-alpha8.jar
+Download https://maven.google.com/com/android/tools/build/apksig/3.0.0-alpha8/apksig-3.0.0-alpha8.jar
+Download https://jcenter.bintray.com/org/bouncycastle/bcpkix-jdk15on/1.56/bcpkix-jdk15on-1.56.jar
+Download https://jcenter.bintray.com/org/bouncycastle/bcprov-jdk15on/1.56/bcprov-jdk15on-1.56.jar
+Download https://jcenter.bintray.com/org/ow2/asm/asm-tree/5.1/asm-tree-5.1.jar
+Download https://jcenter.bintray.com/it/unimi/dsi/fastutil/7.2.0/fastutil-7.2.0.jar
+
+Download https://jcenter.bintray.com/org/eclipse/jdt/core/compiler/ecj/4.6.1/ecj-4.6.1.jar
+Download https://jcenter.bintray.com/com/google/guava/guava/22.0/guava-22.0.jar
+Download https://maven.google.com/com/android/databinding/baseLibrary/3.0.0-alpha8/baseLibrary-3.0.0-alpha8.jar
+Download https://jcenter.bintray.com/org/antlr/antlr4/4.5.3/antlr4-4.5.3.jar
+Download https://jcenter.bintray.com/com/googlecode/juniversalchardet/juniversalchardet/1.0.3/juniversalchardet-1.0.3.jar
+Download https://jcenter.bintray.com/net/sf/proguard/proguard-base/5.3.3/proguard-base-5.3.3.jar
+Download https://maven.google.com/com/android/tools/layoutlib/layoutlib-api/26.0.0-alpha8/layoutlib-api-26.0.0-alpha8.jar
+Download https://maven.google.com/com/android/tools/dvlib/26.0.0-alpha8/dvlib-26.0.0-alpha8.jar
+Download https://maven.google.com/com/android/tools/repository/26.0.0-alpha8/repository-26.0.0-alpha8.jar
+Download https://jcenter.bintray.com/com/google/code/gson/gson/2.3/gson-2.3.jar
+Download https://jcenter.bintray.com/org/apache/commons/commons-compress/1.12/commons-compress-1.12.jar
+Download https://jcenter.bintray.com/org/apache/httpcomponents/httpclient/4.2.6/httpclient-4.2.6.jar
+Download https://maven.google.com/com/android/tools/lint/lint-api/26.0.0-alpha8/lint-api-26.0.0-alpha8.jar
+Download https://jcenter.bintray.com/com/google/code/findbugs/jsr305/1.3.9/jsr305-1.3.9.jar
+Download https://jcenter.bintray.com/com/google/errorprone/error_prone_annotations/2.0.18/error_prone_annotations-2.0.18.jar
+Download https://jcenter.bintray.com/com/google/j2objc/j2objc-annotations/1.1/j2objc-annotations-1.1.jar
+Download https://jcenter.bintray.com/org/codehaus/mojo/animal-sniffer-annotations/1.14/animal-sniffer-annotations-1.14.jar
+Download https://jcenter.bintray.com/com/intellij/annotations/12.0/annotations-12.0.jar
+Download https://jcenter.bintray.com/com/google/jimfs/jimfs/1.1/jimfs-1.1.jar
+Download https://jcenter.bintray.com/org/apache/httpcomponents/httpcore/4.2.5/httpcore-4.2.5.jar
+Download https://jcenter.bintray.com/commons-codec/commons-codec/1.6/commons-codec-1.6.jar
+Download https://maven.google.com/com/android/tools/external/com-intellij/intellij-core/26.0.0-alpha8/intellij-core-26.0.0-alpha8.jar
+Download https://jcenter.bintray.com/com/android/tools/external/lombok/lombok-ast/0.2.3/lombok-ast-0.2.3.jar
+
+Download https://maven.google.com/com/android/tools/annotations/26.0.0-alpha8/annotations-26.0.0-alpha8.jar
+
+FAILURE: Build failed with an exception.
+
+* Where:
+Build file '/home/amit/test-apk-multidex-3.0/app/build.gradle' line: 1
+
+* What went wrong:
+A problem occurred evaluating project ':app'.
+> Failed to apply plugin [id 'com.android.application']
+   > Minimum supported Gradle version is 4.1-milestone-1. Current version is 3.4.1. If using the gradle wrapper, try editing the distributionUrl in /home/amit/test-apk-multidex-3.0/gradle/wrapper/gradle-wrapper.properties to gradle-4.1-milestone-1-all.zip
+
+* Try:
+
+
+BUILD FAILED
+
+Total time: 35.198 secs
+[root@ip-172-31-44-76 test-apk-multidex-3.0]# ./gradlew tasks
+Downloading https://services.gradle.org/distributions/gradle-4.1-milestone-1-all.zip
+............................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................
+
+..................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................
+
+...........................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................
+Unzipping /root/.gradle/wrapper/dists/gradle-4.1-milestone-1-all/9uoz4qrz3xxqtt8z3tsnbtd3e/gradle-4.1-milestone-1-all.zip to /root/.gradle/wrapper/dists/gradle-4.1-milestone-1-all/9uoz4qrz3xxqtt8z3tsnbtd3e
+Set executable permissions for: /root/.gradle/wrapper/dists/gradle-4.1-milestone-1-all/9uoz4qrz3xxqtt8z3tsnbtd3e/gradle-4.1-milestone-1/bin/gradle
+Starting a Gradle Daemon (subsequent builds will be faster)
+
+FAILURE: Build failed with an exception.
+
+* What went wrong:
+A problem occurred configuring project ':app'.
+> SDK location not found. Define location with sdk.dir in the local.properties file or with an ANDROID_HOME environment variable.
+
+* Try:
+Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output.
+
+BUILD FAILED in 21s
+[root@ip-172-31-44-76 test-apk-multidex-3.0]# cd/opt
+bash: cd/opt: No such file or directory
+[root@ip-172-31-44-76 test-apk-multidex-3.0]# cd/ opt
+bash: cd/: No such file or directory
+
+[root@ip-172-31-44-76 opt]# ls
+aws  gradle
+[root@ip-172-31-44-76 opt]# cd gradle
+[root@ip-172-31-44-76 gradle]# ls
+gradle-3.4.1  gradle-3.4.1-bin.zip
+[root@ip-172-31-44-76 gradle]# cd gradle-3.4.1
+[root@ip-172-31-44-76 gradle-3.4.1]# ls
+bin  getting-started.html  init.d  lib  LICENSE  media  NOTICE
+[root@ip-172-31-44-76 gradle-3.4.1]# cd bin
+[root@ip-172-31-44-76 bin]# ls
+gradle  gradle.bat
+[root@ip-172-31-44-76 bin]# cd /
+[root@ip-172-31-44-76 /]# cd /home
+[root@ip-172-31-44-76 home]# ls
+amit  android-sdk-linux  android-sdk_r24.2-linux.tgz  ec2-user
+[root@ip-172-31-44-76 home]# cd android-sdk-linux/
+[root@ip-172-31-44-76 android-sdk-linux]# ls
+add-ons  build-tools  docs  extras  platforms  platform-tools  samples  SDK Readme.txt  temp  tools
+[root@ip-172-31-44-76 android-sdk-linux]# cd tools
+[root@ip-172-31-44-76 tools]# ls
+android  bin64       emulator64-arm            emulator64-x86         emulator-ranchu-mips64  lib       monitor       qemu               templates
+ant      ddms        emulator64-mips           emulator-arm           emulator-x86            lib64     monkeyrunner  screenshot2        traceview
+apps     draw9patch  emulator64-ranchu-arm64   emulator-mips          hierarchyviewer         lint      NOTICE.txt    source.properties  uiautomatorviewer
+bin      emulator    emulator64-ranchu-mips64  emulator-ranchu-arm64  jobb                    mksdcard  proguard      support
+[root@ip-172-31-44-76 tools]# cd android
+bash: cd: android: Not a directory
+[root@ip-172-31-44-76 tools]# cd users
+bash: cd: users: No such file or directory
+[root@ip-172-31-44-76 tools]# cd /home//ec2-user/
+[root@ip-172-31-44-76 ec2-user]# ls -a
+.  ..  .bash_history  .bash_logout  .bash_profile  ~bashrc  .bashrc  opt  .ssh
+[root@ip-172-31-44-76 ec2-user]# vi ~/.bash_profile
+[root@ip-172-31-44-76 ec2-user]# source ~/.bash_profile
+[root@ip-172-31-44-76 ec2-user]# cd /home
+[root@ip-172-31-44-76 home]# ls
+amit  android-sdk-linux  android-sdk_r24.2-linux.tgz  ec2-user
+[root@ip-172-31-44-76 home]# cd amit
+[root@ip-172-31-44-76 amit]# ls
+test-apk-multidex-3.0
+[root@ip-172-31-44-76 amit]# cd test-apk-multidex-3.0/
+[root@ip-172-31-44-76 test-apk-multidex-3.0]# ls
+app  build  build.gradle  gradle  gradle.properties  gradlew  gradlew.bat  settings.gradle
+[root@ip-172-31-44-76 test-apk-multidex-3.0]# ./gradlew tasks
+
+FAILURE: Build failed with an exception.
+
+* What went wrong:
+A problem occurred configuring project ':app'.
+> The SDK directory '/root/Library/Android/sdk' does not exist.
+
+* Try:
+Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output.
+
+BUILD FAILED in 1s
+[root@ip-172-31-44-76 test-apk-multidex-3.0]# vi ~/.bash_profile
+[root@ip-172-31-44-76 test-apk-multidex-3.0]# vi ~/.bash_profile
+[root@ip-172-31-44-76 test-apk-multidex-3.0]# source ~/.bash_profile
+[root@ip-172-31-44-76 test-apk-multidex-3.0]# ./gradlew tasks
+
+FAILURE: Build failed with an exception.
+
+* What went wrong:
+A problem occurred configuring project ':app'.
+> The SDK directory '/root/home/android-sdk-linux' does not exist.
+
+* Try:
+Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output.
+
+BUILD FAILED in 1s
+[root@ip-172-31-44-76 test-apk-multidex-3.0]# vi ~/.bash_profile
+[root@ip-172-31-44-76 test-apk-multidex-3.0]# ./gradlew tasks
+
+FAILURE: Build failed with an exception.
+
+* What went wrong:
+A problem occurred configuring project ':app'.
+> The SDK directory '/root/home/android-sdk-linux' does not exist.
+
+* Try:
+Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output.
+
+BUILD FAILED in 1s
+[root@ip-172-31-44-76 test-apk-multidex-3.0]# vi ~/.bash_profile
+[root@ip-172-31-44-76 test-apk-multidex-3.0]# vi ~/.bash_profile
+[root@ip-172-31-44-76 test-apk-multidex-3.0]# ./gradlew tasks
+
+FAILURE: Build failed with an exception.
+
+* What went wrong:
+A problem occurred configuring project ':app'.
+> The SDK directory '/root/home/android-sdk-linux' does not exist.
+
+* Try:
+Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output.
+
+BUILD FAILED in 1s
+[root@ip-172-31-44-76 test-apk-multidex-3.0]# vi ~/.bash_profile
+[root@ip-172-31-44-76 test-apk-multidex-3.0]# ./gradlew tasks
+
+FAILURE: Build failed with an exception.
+
+* What went wrong:
+A problem occurred configuring project ':app'.
+> The SDK directory '/root/home/android-sdk-linux' does not exist.
+
+* Try:
+Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output.
+
+BUILD FAILED in 1s
+[root@ip-172-31-44-76 test-apk-multidex-3.0]# source ~/.bash_profile
+[root@ip-172-31-44-76 test-apk-multidex-3.0]# ./gradlew tasks
+
+FAILURE: Build failed with an exception.
+
+* What went wrong:
+A problem occurred configuring project ':app'.
+> The SDK directory '/root/Library/android-sdk-linux' does not exist.
+
+* Try:
+Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output.
+
+BUILD FAILED in 1s
+[root@ip-172-31-44-76 test-apk-multidex-3.0]# vi ~/.bash_profile
+[root@ip-172-31-44-76 test-apk-multidex-3.0]# source ~/.bash_profile
+[root@ip-172-31-44-76 test-apk-multidex-3.0]# ./gradlew tasks
+
+FAILURE: Build failed with an exception.
+
+* What went wrong:
+A problem occurred configuring project ':app'.
+> The SDK directory '/root/home/android-sdk-linux' does not exist.
+
+* Try:
+Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output.
+
+BUILD FAILED in 1s
+[root@ip-172-31-44-76 test-apk-multidex-3.0]# Connection reset by 34.214.168.90 port 22
+
+amit@Bhadauriya MINGW64 /c/users/amit/Desktop
+$ ssh -i "amitLaptop.pem" ec2-user@ec2-34-214-168-90.us-west-2.compute.amazonaws.com
+Last login: Mon Sep 25 19:58:38 2017 from 116.75.65.123
+
+       __|  __|_  )
+       _|  (     /   Amazon Linux AMI
+      ___|\___|___|
+
+https://aws.amazon.com/amazon-linux-ami/2017.03-release-notes/
+8 package(s) needed for security, out of 8 available
+Run "sudo yum update" to apply all updates.
+[ec2-user@ip-172-31-44-76 ~]$ sudo bash
+[root@ip-172-31-44-76 ec2-user]# cd /amit
+bash: cd: /amit: No such file or directory
+[root@ip-172-31-44-76 ec2-user]# cd /home//amit/
+[root@ip-172-31-44-76 amit]# ls
+test-apk-multidex-3.0
+[root@ip-172-31-44-76 amit]# cd test-apk-multidex-3.0/
+[root@ip-172-31-44-76 test-apk-multidex-3.0]# ls
+app  build  build.gradle  gradle  gradle.properties  gradlew  gradlew.bat  settings.gradle
+[root@ip-172-31-44-76 test-apk-multidex-3.0]# ./gradlew assembleRelease
+
+FAILURE: Build failed with an exception.
+
+* What went wrong:
+A problem occurred configuring project ':app'.
+> SDK location not found. Define location with sdk.dir in the local.properties file or with an ANDROID_HOME environment variable.
+
+* Try:
+Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output.
+
+BUILD FAILED in 1s
+[root@ip-172-31-44-76 test-apk-multidex-3.0]# export ANDROID_HOME=/Users/ec2-user/Library/Android/sdk/
+[root@ip-172-31-44-76 test-apk-multidex-3.0]# export PATH=$PATH:$ANDROID_HOME/tools:$ANDROID_HOME/platform-tools
+[root@ip-172-31-44-76 test-apk-multidex-3.0]# ./gradlew assembleRelease
+
+FAILURE: Build failed with an exception.
+
+* What went wrong:
+A problem occurred configuring project ':app'.
+> The SDK directory '/Users/ec2-user/Library/Android/sdk' does not exist.
+
+* Try:
+Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output.
+
+BUILD FAILED in 1s
+[root@ip-172-31-44-76 test-apk-multidex-3.0]# export ANDROID_HOME=$HOME/android-sdk-linux
+[root@ip-172-31-44-76 test-apk-multidex-3.0]# ./gradlew assembleRelease
+
+FAILURE: Build failed with an exception.
+
+* What went wrong:
+A problem occurred configuring project ':app'.
+> The SDK directory '/root/android-sdk-linux' does not exist.
+
+* Try:
+Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output.
+
+BUILD FAILED in 1s
+[root@ip-172-31-44-76 test-apk-multidex-3.0]# cd /home
+[root@ip-172-31-44-76 home]# ls
+amit  android-sdk-linux  android-sdk_r24.2-linux.tgz  ec2-user
+[root@ip-172-31-44-76 home]# cd android-sdk
+bash: cd: android-sdk: No such file or directory
+[root@ip-172-31-44-76 home]# cd android-sdk-linux
+[root@ip-172-31-44-76 android-sdk-linux]# ls
+add-ons  build-tools  docs  extras  platforms  platform-tools  samples  SDK Readme.txt  temp  tools
+[root@ip-172-31-44-76 android-sdk-linux]# cat SDK\ Readme.txt
+Welcome to the Android SDK!
+
+The Android SDK archive initially contains only the basic SDK tools. It does
+not contain an Android platform or any third-party libraries. In fact, it
+doesn't even have all the tools you need to develop an application.
+
+In order to start developing applications, you must install the Platform-tools
+and at least one version of the Android platform, using the SDK Manager.
+
+Platform-tools contains build tools that are periodically updated to support new
+features in the Android platform (which is why they are separate from basic
+SDK tools), including adb, dexdump, and others.
+
+To install Platform-tools, Android platforms and other add-ons, you must
+have an Internet connection, so if you plan to use the SDK while
+offline, please make sure to download the necessary components while online.
+
+To start the SDK Manager, please execute the program "android".
+
+From the command-line you can also directly trigger an update by
+executing:
+  tools/android update sdk --no-ui
+
+Tip: use --help to see the various command-line options.
+
+
+For more information, please consult the Android web site at
+  http://developer.android.com/sdk/
+
+[root@ip-172-31-44-76 android-sdk-linux]# pwd
+/home/android-sdk-linux
+[root@ip-172-31-44-76 android-sdk-linux]# export ANDROID_HOME=$HOME/android-sdk-linux/SDK
+[root@ip-172-31-44-76 android-sdk-linux]# cd /home
+[root@ip-172-31-44-76 home]# ls
+amit  android-sdk-linux  android-sdk_r24.2-linux.tgz  ec2-user
+[root@ip-172-31-44-76 home]# cd android-sdk
+bash: cd: android-sdk: No such file or directory
+[root@ip-172-31-44-76 home]# cd android-sdk-linux
+[root@ip-172-31-44-76 android-sdk-linux]# cd ..
+[root@ip-172-31-44-76 home]# cd amit
+[root@ip-172-31-44-76 amit]# ls
+test-apk-multidex-3.0
+[root@ip-172-31-44-76 amit]# cd test-apk-multidex-3.0/
+[root@ip-172-31-44-76 test-apk-multidex-3.0]# ./gradlew tasks
+
+FAILURE: Build failed with an exception.
+
+* What went wrong:
+A problem occurred configuring project ':app'.
+> The SDK directory '/root/android-sdk-linux/SDK' does not exist.
+
+* Try:
+Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output.
+
+BUILD FAILED in 1s
+[root@ip-172-31-44-76 test-apk-multidex-3.0]# export ANDROID_HOME=$HOME/android-sdk-linux/SDK Readme.txt
+bash: export: `Readme.txt': not a valid identifier
+[root@ip-172-31-44-76 test-apk-multidex-3.0]# locate "SDK Readme.txt"
+bash: locate: command not found
+[root@ip-172-31-44-76 test-apk-multidex-3.0]# yum install locate
+Loaded plugins: priorities, update-motd, upgrade-helper
+amzn-main                                                                                                                                          | 2.1 kB  00:00:00
+
+amzn-updates                                                                                                                                       | 2.3 kB  00:00:00
+
+No package locate available.
+Error: Nothing to do
+[root@ip-172-31-44-76 test-apk-multidex-3.0]# find "SDK Readme.txt"
+find: `SDK Readme.txt': No such file or directory
+[root@ip-172-31-44-76 test-apk-multidex-3.0]# cd /var/lib
+[root@ip-172-31-44-76 lib]# ls
+alternatives  authconfig  cloud  dbus  dhclient  games  logrotate.status  misc  nfs  ntp  random-seed  rpm  rpm-state  rsyslog  stateless  update-motd  yum
+[root@ip-172-31-44-76 lib]# cd yum
+[root@ip-172-31-44-76 yum]# ls
+groups  history  repos  rpmdb-indexes  uuid  yumdb
+[root@ip-172-31-44-76 yum]# cd /
+[root@ip-172-31-44-76 /]# ls
+bin  boot  cgroup  dev  etc  home  lib  lib64  local  lost+found  media  mnt  opt  proc  root  run  sbin  selinux  srv  sys  tmp  usr  var
+[root@ip-172-31-44-76 /]# cd /opt
+[root@ip-172-31-44-76 opt]# ls
+aws  gradle
+[root@ip-172-31-44-76 opt]# cd /
+[root@ip-172-31-44-76 /]# cd /home
+[root@ip-172-31-44-76 home]# ls
+amit  android-sdk-linux  android-sdk_r24.2-linux.tgz  ec2-user
+[root@ip-172-31-44-76 home]# cd ec2-user/
+[root@ip-172-31-44-76 ec2-user]# ls
+~bashrc  opt
+[root@ip-172-31-44-76 ec2-user]# cd opt
+[root@ip-172-31-44-76 opt]# ls
+packages
+[root@ip-172-31-44-76 opt]# cd packages/
+[root@ip-172-31-44-76 packages]# ls
+gradle
+[root@ip-172-31-44-76 packages]# cd ..
+[root@ip-172-31-44-76 opt]# cd ..
+[root@ip-172-31-44-76 ec2-user]# cd ..
+[root@ip-172-31-44-76 home]# ls
+amit  android-sdk-linux  android-sdk_r24.2-linux.tgz  ec2-user
+[root@ip-172-31-44-76 home]# cd android-sdk-linux/
+[root@ip-172-31-44-76 android-sdk-linux]# ls
+add-ons  build-tools  docs  extras  platforms  platform-tools  samples  SDK Readme.txt  temp  tools
+[root@ip-172-31-44-76 android-sdk-linux]# cd tools
+[root@ip-172-31-44-76 tools]# ls
+android  bin64       emulator64-arm            emulator64-x86         emulator-ranchu-mips64  lib       monitor       qemu               templates
+ant      ddms        emulator64-mips           emulator-arm           emulator-x86            lib64     monkeyrunner  screenshot2        traceview
+apps     draw9patch  emulator64-ranchu-arm64   emulator-mips          hierarchyviewer         lint      NOTICE.txt    source.properties  uiautomatorviewer
+bin      emulator    emulator64-ranchu-mips64  emulator-ranchu-arm64  jobb                    mksdcard  proguard      support
+[root@ip-172-31-44-76 tools]# cd android
+bash: cd: android: Not a directory
+[root@ip-172-31-44-76 tools]# cd /
+[root@ip-172-31-44-76 /]# cd samples
+bash: cd: samples: No such file or directory
+[root@ip-172-31-44-76 /]# cd /home
+[root@ip-172-31-44-76 home]# ls
+amit  android-sdk-linux  android-sdk_r24.2-linux.tgz  ec2-user
+[root@ip-172-31-44-76 home]# cd android-sdk
+bash: cd: android-sdk: No such file or directory
+[root@ip-172-31-44-76 home]# cd android-sdk-linux
+[root@ip-172-31-44-76 android-sdk-linux]# ls
+add-ons  build-tools  docs  extras  platforms  platform-tools  samples  SDK Readme.txt  temp  tools
+[root@ip-172-31-44-76 android-sdk-linux]# cd build-tools/
+[root@ip-172-31-44-76 build-tools]# ls
+23.0.1
+[root@ip-172-31-44-76 build-tools]# cd ..
+[root@ip-172-31-44-76 android-sdk-linux]# cd tools
+[root@ip-172-31-44-76 tools]# ls -l
+total 112048
+-rwxr-xr-x 1 root root     3498 Sep 25 19:39 android
+drwxr-xr-x 2 root root     4096 Sep 25 19:39 ant
+drwxr-xr-x 3 root root     4096 Sep 25 19:39 apps
+drwxr-xr-x 2 root root     4096 Sep 25 19:39 bin
+drwxr-xr-x 2 root root     4096 Sep 25 19:39 bin64
+-rwxr-xr-x 1 root root     3286 Sep 25 19:39 ddms
+-rwxr-xr-x 1 root root     1940 Sep 25 19:39 draw9patch
+-rwxr-xr-x 1 root root   412368 Sep 25 19:39 emulator
+-rwxr-xr-x 1 root root 18755016 Sep 25 19:39 emulator64-arm
+-rwxr-xr-x 1 root root 19876400 Sep 25 19:39 emulator64-mips
+-rwxr-xr-x 1 root root  1361088 Sep 25 19:39 emulator64-ranchu-arm64
+-rwxr-xr-x 1 root root  1360440 Sep 25 19:39 emulator64-ranchu-mips64
+-rwxr-xr-x 1 root root 20282736 Sep 25 19:39 emulator64-x86
+-rwxr-xr-x 1 root root 15600744 Sep 25 19:39 emulator-arm
+-rwxr-xr-x 1 root root 16583180 Sep 25 19:39 emulator-mips
+-rwxr-xr-x 1 root root  1141100 Sep 25 19:39 emulator-ranchu-arm64
+-rwxr-xr-x 1 root root  1140620 Sep 25 19:39 emulator-ranchu-mips64
+-rwxr-xr-x 1 root root 17284012 Sep 25 19:39 emulator-x86
+-rwxr-xr-x 1 root root     3464 Sep 25 19:39 hierarchyviewer
+-rwxr-xr-x 1 root root     1845 Sep 25 19:39 jobb
+drwxr-xr-x 9 root root     4096 Sep 25 19:39 lib
+drwxr-xr-x 3 root root     4096 Sep 25 19:39 lib64
+-rwxr-xr-x 1 root root     2047 Sep 25 19:39 lint
+-rwxr-xr-x 1 root root    12191 Sep 25 19:39 mksdcard
+-rwxr-xr-x 1 root root     1293 Sep 25 19:39 monitor
+-rwxr-xr-x 1 root root     3176 Sep 25 19:39 monkeyrunner
+-rw-r--r-- 1 root root   801996 Sep 25 19:39 NOTICE.txt
+drwxr-xr-x 7 root root     4096 Sep 25 19:39 proguard
+drwxr-xr-x 4 root root     4096 Sep 25 19:39 qemu
+-rwxr-xr-x 1 root root     2259 Sep 25 19:39 screenshot2
+-rw-r--r-- 1 root root    16540 Sep 25 19:39 source.properties
+drwxr-xr-x 2 root root     4096 Sep 25 19:39 support
+drwxr-xr-x 6 root root     4096 Sep 25 19:39 templates
+-rwxr-xr-x 1 root root     3219 Sep 25 19:39 traceview
+-rwxr-xr-x 1 root root     3054 Sep 25 19:39 uiautomatorviewer
+[root@ip-172-31-44-76 tools]# cd bin
+[root@ip-172-31-44-76 bin]# ls
+e2fsck  fsck.ext4  mkfs.ext4  resize2fs  tune2fs
+[root@ip-172-31-44-76 bin]# pwd
+/home/android-sdk-linux/tools/bin
+[root@ip-172-31-44-76 bin]# cd /home
+[root@ip-172-31-44-76 home]# export ANDROID_HOME=$HOME:android-sdk-linux/tools/bin
+[root@ip-172-31-44-76 home]# cd /
+[root@ip-172-31-44-76 /]# cd amit
+bash: cd: amit: No such file or directory
+[root@ip-172-31-44-76 /]# cd /home/amit
+[root@ip-172-31-44-76 amit]# ls
+test-apk-multidex-3.0
+[root@ip-172-31-44-76 amit]# cd test-apk-multidex-3.0/
+[root@ip-172-31-44-76 test-apk-multidex-3.0]# ls
+app  build  build.gradle  gradle  gradle.properties  gradlew  gradlew.bat  settings.gradle
+[root@ip-172-31-44-76 test-apk-multidex-3.0]# ./gradlew tasks
+
+FAILURE: Build failed with an exception.
+
+* What went wrong:
+A problem occurred configuring project ':app'.
+> The SDK directory '/root:android-sdk-linux/tools/bin' does not exist.
+
+* Try:
+Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output.
+
+BUILD FAILED in 1s
+[root@ip-172-31-44-76 test-apk-multidex-3.0]# export ANDROID_HOME=/home/android-sdk-linux/
+[root@ip-172-31-44-76 test-apk-multidex-3.0]# ./gradlew tasks
+
+> Configure project :app
+File /root/.android/repositories.cfg could not be loaded.
+Checking the license for package Android SDK Build-Tools 26.0.1 in /home/android-sdk-linux/licenses
+Warning: License for package Android SDK Build-Tools 26.0.1 not accepted.
+Checking the license for package Android SDK Platform 26 in /home/android-sdk-linux/licenses
+Warning: License for package Android SDK Platform 26 not accepted.
+
+
+FAILURE: Build failed with an exception.
+
+* What went wrong:
+A problem occurred configuring project ':app'.
+> You have not accepted the license agreements of the following SDK components:
+  [Android SDK Build-Tools 26.0.1, Android SDK Platform 26].
+  Before building your project, you need to accept the license agreements and complete the installation of the missing components using the Android Studio SDK Manager.
+  Alternatively, to learn how to transfer the license agreements from one workstation to another, go to http://d.android.com/r/studio-ui/export-licenses.html
+
+* Try:
+Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output.
+
+BUILD FAILED in 5s
+[root@ip-172-31-44-76 test-apk-multidex-3.0]# mkdir "$ANDROID_HOME/licenses"
+[root@ip-172-31-44-76 test-apk-multidex-3.0]# echo -e "\n8933bad161af4178b1185d1a37fbf41ea5269c55" > "$ANDROID_HOME/licenses/android-sdk-license"
+[root@ip-172-31-44-76 test-apk-multidex-3.0]# ./gradlew tasks
+
+> Configure project :app
+Checking the license for package Android SDK Build-Tools 26.0.1 in /home/android-sdk-linux/licenses
+License for package Android SDK Build-Tools 26.0.1 accepted.
+Preparing "Install Android SDK Build-Tools 26.0.1 (revision: 26.0.1)".
+"Install Android SDK Build-Tools 26.0.1 (revision: 26.0.1)" ready.
+Installing Android SDK Build-Tools 26.0.1 in /home/android-sdk-linux/build-tools/26.0.1
+"Install Android SDK Build-Tools 26.0.1 (revision: 26.0.1)" complete.
+"Install Android SDK Build-Tools 26.0.1 (revision: 26.0.1)" finished.
+Checking the license for package Android SDK Platform 26 in /home/android-sdk-linux/licenses
+License for package Android SDK Platform 26 accepted.
+Preparing "Install Android SDK Platform 26 (revision: 2)".
+"Install Android SDK Platform 26 (revision: 2)" ready.
+Installing Android SDK Platform 26 in /home/android-sdk-linux/platforms/android-26
+"Install Android SDK Platform 26 (revision: 2)" complete.
+"Install Android SDK Platform 26 (revision: 2)" finished.
+
+> Task :tasks
+
+------------------------------------------------------------
+All tasks runnable from root project
+------------------------------------------------------------
+
+Android tasks
+-------------
+androidDependencies - Displays the Android dependencies of the project.
+signingReport - Displays the signing info for each variant.
+sourceSets - Prints out all the source sets defined in this project.
+
+Build tasks
+-----------
+assemble - Assembles all variants of all applications and secondary packages.
+assembleAndroidTest - Assembles all the Test applications.
+assembleDebug - Assembles all Debug builds.
+assembleRelease - Assembles all Release builds.
+build - Assembles and tests this project.
+buildDependents - Assembles and tests this project and all projects that depend on it.
+buildNeeded - Assembles and tests this project and all projects it depends on.
+clean - Deletes the build directory.
+cleanBuildCache - Deletes the build cache directory.
+compileDebugAndroidTestSources
+compileDebugSources
+compileDebugUnitTestSources
+compileReleaseSources
+compileReleaseUnitTestSources
+mockableAndroidJar - Creates a version of android.jar that's suitable for unit tests.
+
+Build Setup tasks
+-----------------
+init - Initializes a new Gradle build.
+wrapper - Generates Gradle wrapper files.
+
+Help tasks
+----------
+buildEnvironment - Displays all buildscript dependencies declared in root project 'test-apk-multidex-3.0'.
+components - Displays the components produced by root project 'test-apk-multidex-3.0'. [incubating]
+dependencies - Displays all dependencies declared in root project 'test-apk-multidex-3.0'.
+dependencyInsight - Displays the insight into a specific dependency in root project 'test-apk-multidex-3.0'.
+dependentComponents - Displays the dependent components of components in root project 'test-apk-multidex-3.0'. [incubating]
+help - Displays a help message.
+model - Displays the configuration model of root project 'test-apk-multidex-3.0'. [incubating]
+projects - Displays the sub-projects of root project 'test-apk-multidex-3.0'.
+properties - Displays the properties of root project 'test-apk-multidex-3.0'.
+tasks - Displays the tasks runnable from root project 'test-apk-multidex-3.0' (some of the displayed tasks may belong to subprojects).
+
+Install tasks
+-------------
+installDebug - Installs the Debug build.
+installDebugAndroidTest - Installs the android (on device) tests for the Debug build.
+uninstallAll - Uninstall all applications.
+uninstallDebug - Uninstalls the Debug build.
+uninstallDebugAndroidTest - Uninstalls the android (on device) tests for the Debug build.
+uninstallRelease - Uninstalls the Release build.
+
+Verification tasks
+------------------
+check - Runs all checks.
+connectedAndroidTest - Installs and runs instrumentation tests for all flavors on connected devices.
+connectedCheck - Runs all device checks on currently connected devices.
+connectedDebugAndroidTest - Installs and runs the tests for debug on connected devices.
+deviceAndroidTest - Installs and runs instrumentation tests using all Device Providers.
+deviceCheck - Runs all device checks using Device Providers and Test Servers.
+lint - Runs lint on all variants.
+lintDebug - Runs lint on the Debug build.
+lintRelease - Runs lint on the Release build.
+test - Run unit tests for all variants.
+testDebugUnitTest - Run unit tests for the debug build.
+testReleaseUnitTest - Run unit tests for the release build.
+
+To see all tasks and more detail, run gradlew tasks --all
+
+To see more detail about a task, run gradlew help --task <task>
+
+
+BUILD SUCCESSFUL in 14s
+1 actionable task: 1 executed
+[root@ip-172-31-44-76 test-apk-multidex-3.0]# ./gradlew assembleDebug
+Download https://jcenter.bintray.com/org/jetbrains/kotlin/kotlin-stdlib-jre7/1.1.3-2/kotlin-stdlib-jre7-1.1.3-2.pom
+Download https://maven.google.com/com/android/support/appcompat-v7/26.0.0/appcompat-v7-26.0.0.pom
+Download https://maven.google.com/com/android/support/constraint/constraint-layout/1.0.2/constraint-layout-1.0.2.pom
+Download https://maven.google.com/com/android/support/support-annotations/26.0.0/support-annotations-26.0.0.pom
+Download https://maven.google.com/com/android/support/support-v4/26.0.0/support-v4-26.0.0.pom
+Download https://maven.google.com/com/android/support/support-vector-drawable/26.0.0/support-vector-drawable-26.0.0.pom
+Download https://maven.google.com/com/android/support/animated-vector-drawable/26.0.0/animated-vector-drawable-26.0.0.pom
+Download https://maven.google.com/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.pom
+Download https://maven.google.com/com/android/support/support-compat/26.0.0/support-compat-26.0.0.pom
+Download https://maven.google.com/com/android/support/support-media-compat/26.0.0/support-media-compat-26.0.0.pom
+Download https://maven.google.com/com/android/support/support-core-utils/26.0.0/support-core-utils-26.0.0.pom
+Download https://maven.google.com/com/android/support/support-core-ui/26.0.0/support-core-ui-26.0.0.pom
+Download https://maven.google.com/com/android/support/support-fragment/26.0.0/support-fragment-26.0.0.pom
+Download https://maven.google.com/com/android/support/multidex/1.0.2/multidex-1.0.2.pom
+Download https://maven.google.com/com/android/support/multidex/1.0.2/multidex-1.0.2.aar
+Download https://maven.google.com/com/android/support/appcompat-v7/26.0.0/appcompat-v7-26.0.0.aar
+Download https://maven.google.com/com/android/support/constraint/constraint-layout/1.0.2/constraint-layout-1.0.2.aar
+Download https://maven.google.com/com/android/support/animated-vector-drawable/26.0.0/animated-vector-drawable-26.0.0.aar
+Download https://maven.google.com/com/android/support/support-vector-drawable/26.0.0/support-vector-drawable-26.0.0.aar
+Download https://maven.google.com/com/android/support/support-v4/26.0.0/support-v4-26.0.0.aar
+Download https://maven.google.com/com/android/support/support-media-compat/26.0.0/support-media-compat-26.0.0.aar
+Download https://maven.google.com/com/android/support/support-fragment/26.0.0/support-fragment-26.0.0.aar
+Download https://maven.google.com/com/android/support/support-core-utils/26.0.0/support-core-utils-26.0.0.aar
+Download https://maven.google.com/com/android/support/support-core-ui/26.0.0/support-core-ui-26.0.0.aar
+Download https://maven.google.com/com/android/support/support-compat/26.0.0/support-compat-26.0.0.aar
+Download https://jcenter.bintray.com/org/jetbrains/kotlin/kotlin-stdlib-jre7/1.1.3-2/kotlin-stdlib-jre7-1.1.3-2.jar
+Download https://maven.google.com/com/android/support/support-annotations/26.0.0/support-annotations-26.0.0.jar
+Download https://maven.google.com/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar
+
+> Task :app:compileDebugKotlin
+Using kotlin incremental compilation
+<=========----> 69% EXECUTING [2m 10s]
+> :app:transformClassesWithDexBuilderForDebug
+> IDLE
