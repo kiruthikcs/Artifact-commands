@@ -1,0 +1,44 @@
+sudo apt-get install openjdk-8-jdk lib32stdc++6 lib32z1
+wget http://dl.google.com/android/android-sdk_r24.2-linux.tgz    
+tar xvzf android-sdk_r24.2-linux.tgz    
+cd android-sdk-linux/
+cd tools
+./android update sdk  --no-ui
+cd ubuntu/
+ls -a
+vi ~/.bashrc
+source ~/.bashrc
+cd /home
+wget https://services.gradle.org/distributions/gradle-3.4.1-bin.zip
+tar xvzf gradle-3.4.1-bin.zip
+sudo mkdir /opt/gradle
+unzip -d /opt/gradle gradle-3.4.1-bin.zip
+ls
+export PATH=$PATH:/opt/gradle/gradle-3.4.1/bin
+gradle -v
+cd /home
+ls
+cd ubuntu
+ls -a
+vi .bashrc
+export ANDROID_HOME=/home/android-sdk-linux/
+mkdir "$ANDROID_HOME/licenses"
+echo -e "\n8933bad161af4178b1185d1a37fbf41ea5269c55" > "$ANDROID_HOME/licenses/android-sdk-license"
+mkdir  androidBucket
+ls
+cd androidBucket/
+git clone http://rajdeepsa@bitbucket.gxicloud.com/scm/sard/oceanhntt_tabletapp.git
+ls
+cd oceanhntt_tabletapp/
+ls
+gradle tasks
+ cd /home/ubuntu/
+ ls -a
+ vi .bashrc
+source .bashrc
+cd /home/androidBucket/oceanhntt_tabletapp/OceanHNTT/
+ls
+gradle tasks
+gradle assembleDebug
+ls
+cd app/build/outputs/apk
