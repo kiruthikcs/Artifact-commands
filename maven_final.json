@@ -1,0 +1,72 @@
+{
+    "AWSTemplateFormatVersion": "2010-09-09",
+    "Description": "Launch an EC2 instance",
+    "Parameters": {
+		
+        "KeyName": {
+            "Description": "Key Pair Name",
+            "Type": "AWS::EC2::KeyPair::KeyName"
+        },
+		
+		"Region": {
+		"Description": "Select the region as here there are only Four region where I can create the template",
+		"Type": "String",
+		"Default":"Asia Pacific (Mumbai)",
+		"AllowedValues": ["Asia Pacific (Mumbai)","US East (N. Virginia)","US East (Ohio)","US West (N. California)"]
+
+		},
+		
+        "InstanceType": {
+            "Description": "Select one of these",
+            "Type": "String",
+            "Default": "t2.micro",
+            "AllowedValues": ["t2.micro", "t2.small", "t2.medium"]
+        }
+    },
+	
+	"Mappings" : {
+	    "RegionMap" : {
+			"ap-south-1":{"64":"ami-d7abd1b8"},
+			"us-east-1":{"64":"ami-4fffc834"},
+			"us-east-2":{"64":"ami-ea87a78f"},
+			"us-west-1":{"64":"ami-3a674d5a"}
+	  
+
+		}
+	},
+  
+  
+    "Resources": {
+        "Server": {
+            "Type": "AWS::EC2::Instance",
+            "Properties": {
+				"ImageId" : { "Fn::FindInMap" : [ "RegionMap", { "Ref" : "AWS::Region" }, "64"]},
+                "InstanceType": {"Ref": "InstanceType"},
+                "KeyName": {"Ref": "KeyName"},
+                "UserData":
+                {"Fn::Base64": {"Fn::Join": ["", [
+                    "#!/bin/bash -ex \n",
+                    "sudo yum update -y \n", 
+					
+                    "sudo wget http://repos.fedorapeople.org/repos/dchen/apache-maven/epel-apache-maven.repo -O /etc/yum.repos.d/epel-apache-maven.repo \n",
+					"sudo sed -i s/\\$releasever/6/g /etc/yum.repos.d/epel-apache-maven.repo \n",
+					"sudo yum install -y apache-maven \n",
+					"export PATH=$PATH:/etc/yum.repos.d/ \n",
+					"mkdir git_directory \n",
+					"cd git_directory \n",
+					"sudo yum install git -y \n",
+					"git clone https://github.com/spring-petclinic/spring-framework-petclinic.git \n",
+					"cd spring-framework-petclinic \n",
+                    "mvn package \n"
+                    
+
+               
+					
+                ]]}
+                }
+            }
+        }
+    },
+    "Outputs": {
+    }
+}
