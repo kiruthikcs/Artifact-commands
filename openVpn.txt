@@ -1,0 +1,20 @@
+apt-get update -y
+apt-get install gcc libssl-dev liblzo2-dev libpam0g-dev -y && apt-get install make
+wget http://build.openvpn.net/downloads/releases/openvpn-2.4.0.tar.gz && tar -zxvf openvpn-2.4.0.tar.gz &&  rm -rf openvpn-2.4.0.tar.gz
+
+#apt-get install libssl-dev liblzo2-dev libpam0g-dev -y
+touch vpnlogin
+echo "ProfileUsrname" > vpnlogin
+echo "ProfilePassword" >> vpnlogin
+
+DOWNLOAD client.ovpn
+vi client.ovpn
+  Edit the line no 63 
+  auth-user-pass /home/ubuntu/vpnlogin
+save the file
+  
+cd openvpn-2.4.0
+./configure && sudo make && sudo make install
+cd ..
+openvpn --config client.ovpn & 
+^^ Save this 
