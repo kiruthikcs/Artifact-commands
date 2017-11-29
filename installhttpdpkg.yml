@@ -1,0 +1,6 @@
+---
+ - hosts: localhost
+   user: root
+   tasks:
+   - name: Install a httpd pkg
+     yum: name=httpd state=latest
